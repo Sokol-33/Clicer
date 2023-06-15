@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Подсчет ВАЗ-ов</string>
+    <string name="VAZ">Всего ВАЗ-ов</string>
+    <string name="add_VAZ">Добавить ВАЗ</string>
+</resources>
